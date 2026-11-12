@@ -7,6 +7,7 @@ Rozwiązane notatniki z laboratoriów (Google Colab, GPU T4, TensorFlow/Keras 3,
 | L1 | Środowisko, tensory i gradient od podstaw | `Lab01_Srodowisko_tensory_gradient_rozwiazanie.ipynb` |
 | L2 | Perceptron i MLP | `Lab02_Perceptron_MLP_rozwiazanie.ipynb` |
 | L3 | Keras: klasyfikacja, regresja i regularyzacja | `Lab03_Keras_klasyfikacja_regresja_rozwiazanie.ipynb` |
+| L4 | CNN i transfer learning | `Lab04_CNN_transfer_learning_rozwiazanie.ipynb` |
 
 ## Jak uruchomić
 
