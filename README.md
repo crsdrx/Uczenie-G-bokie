@@ -15,4 +15,4 @@ Rozwiązane notatniki z laboratoriów (Google Colab, GPU T4, TensorFlow/Keras 3,
 2. **Środowisko wykonawcze → Zmień typ środowiska wykonawczego → T4 GPU**.
 3. **Środowisko wykonawcze → Uruchom wszystko**.
 
-Bez GPU ustaw `SZYBKI_TRYB = True` w pierwszej komórce z kodem (mniej danych i epok).
+Bez GPU odkomentuj linię `SZYBKI_TRYB = True` w komórce z importami (mniej danych i epok).
